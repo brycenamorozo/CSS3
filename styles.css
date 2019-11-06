@@ -1,0 +1,11 @@
+body{
+  background-color: #ccf5f5;
+  background-image:url('penguin_pngs/penguin_title.png')
+}
+
+.penguin1{
+  width: 200px;
+  height: 200px;
+  float: left;
+background-image:url('penguin_pngs'/mound-1.png);
+}
